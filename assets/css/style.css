@@ -923,7 +923,19 @@ section {
     margin-left: 15px;
   }
 }
+@media (max-width: 350px) {
+  .portfolio-item {
+    margin-right: 15px;
+    margin-left: 15px;
+  }
+}
 
+@media (max-width: 175px) {
+  .portfolio-item {
+    margin-right: 15px;
+    margin-left: 15px;
+  }
+}
 
 #portfolio .portfolio-item figure .link-preview, #portfolio .portfolio-item figure .link-details {
   position: absolute;
