@@ -917,33 +917,6 @@ section {
   height: 240px;
 }
 
-/* @media (max-width: 575px) {
-  .portfolio-item {
-    margin-right: 15px;
-    margin-left: 15px;
-  }
-}
-@media (max-width: 350px) {
-  .portfolio-item {
-    margin-right: 30px;
-    margin-left: 15px;
-  }
-}
-
-@media (max-width: 235px) {
-  .portfolio-item {
-    margin-right: 30px;
-    margin-left: 15px;
-  }
-}
-
-@media (max-width: 175px) {
-  .portfolio-item {
-    margin-right: 30px;
-    margin-left: 15px;
-  }
-}
- */
 .portfolio-container{
   margin-left: 15px;
   margin-right: 15px;
