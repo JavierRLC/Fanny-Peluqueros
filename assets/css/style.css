@@ -919,14 +919,12 @@ section {
 
 @media (max-width: 575px) {
   .portfolio-item {
-    position: inherit!important;
     margin-right: 15px;
     margin-left: 15px;
   }
 }
 @media (max-width: 350px) {
   .portfolio-item {
-    position: inherit!important;
     margin-right: 30px;
     margin-left: 15px;
   }
@@ -934,7 +932,6 @@ section {
 
 @media (max-width: 235px) {
   .portfolio-item {
-    position: inherit!important;
     margin-right: 30px;
     margin-left: 15px;
   }
